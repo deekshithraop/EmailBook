@@ -1,7 +1,7 @@
 #  Email Book
 A  email book application built with React and using the Flux framework.
 
-## Develop
+## To Use install the dependencies using npm
 
 ```
 git clone https://github.com/deekshithraop/EmailBook.git
