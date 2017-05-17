@@ -1,0 +1,15 @@
+.contact-list .panel {
+	margin-top: 10px;
+}
+.contact-list .panel-body {
+	padding: 0;
+}
+.contact-list .list-group {
+	margin-bottom: 0;
+}
+.contact-list .list-group-item {
+	border: 0;
+}
+.contact-list .list-group-item i {
+	cursor: pointer;
+}
